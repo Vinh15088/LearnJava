@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7ff7fb3-f690-4c3f-ab24-89ec76d7c5d5" name="Changes" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/src/Bai6_EpKieuDuLieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai10_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai10_Practice02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai11_CauLenhIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai11_CauLenhIfElse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,37 +57,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bai6_EpKieuDuLieu">
-    <configuration name="Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai1" />
+  <component name="RunManager" selected="Application.Bai11_Practice06">
+    <configuration name="Bai11_Practice02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai11_Practice.Bai11_Practice02" />
       <module name="Learn Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai2" />
+    <configuration name="Bai11_Practice03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai11_Practice.Bai11_Practice03" />
       <module name="Learn Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai4_KieuDuLieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai4_KieuDuLieu" />
+    <configuration name="Bai11_Practice04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai11_Practice.Bai11_Practice04" />
       <module name="Learn Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai5_Bien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai5_Bien" />
+    <configuration name="Bai11_Practice05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai11_Practice.Bai11_Practice05" />
       <module name="Learn Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai6_EpKieuDuLieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai6_EpKieuDuLieu" />
+    <configuration name="Bai11_Practice06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai11_Practice.Bai11_Practice06" />
       <module name="Learn Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bai6_EpKieuDuLieu" />
-        <item itemvalue="Application.Bai5_Bien" />
-        <item itemvalue="Application.Bai4_KieuDuLieu" />
-        <item itemvalue="Application.Bai2" />
-        <item itemvalue="Application.Bai1" />
+        <item itemvalue="Application.Bai11_Practice06" />
+        <item itemvalue="Application.Bai11_Practice05" />
+        <item itemvalue="Application.Bai11_Practice04" />
+        <item itemvalue="Application.Bai11_Practice03" />
+        <item itemvalue="Application.Bai11_Practice02" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688012996443</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Second commit">
+      <created>1688014202954</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688014202954</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Second commit">
+      <created>1688033574167</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688033574167</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
