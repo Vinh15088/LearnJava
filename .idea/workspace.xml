@@ -5,16 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7ff7fb3-f690-4c3f-ab24-89ec76d7c5d5" name="Changes" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/src/Bai10_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai10_Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai11_Practice06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai12_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai12_ToanTu3Ngoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai13_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai13_SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai14_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai15_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai16_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai17_Continue_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai11_CauLenhIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai11_CauLenhIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_6.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,44 +60,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.Bai11_Practice06">
-    <configuration name="Bai11_Practice02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai11_Practice.Bai11_Practice02" />
+}]]></component>
+  <component name="RunManager" selected="Application.Bai17_02">
+    <configuration name="Bai15_DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai15_DoWhile" />
       <module name="Learn Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai11_Practice03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai11_Practice.Bai11_Practice03" />
+    <configuration name="Bai16_For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai16_For" />
       <module name="Learn Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai11_Practice04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai11_Practice.Bai11_Practice04" />
+    <configuration name="Bai17_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai17_Practice.Bai17_01" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai17_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai11_Practice05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai11_Practice.Bai11_Practice05" />
+    <configuration name="Bai17_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai17_Practice.Bai17_02" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai17_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai11_Practice06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai11_Practice.Bai11_Practice06" />
+    <configuration name="Bai17_Continue_Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai17_Continue_Break" />
       <module name="Learn Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bai11_Practice06" />
-        <item itemvalue="Application.Bai11_Practice05" />
-        <item itemvalue="Application.Bai11_Practice04" />
-        <item itemvalue="Application.Bai11_Practice03" />
-        <item itemvalue="Application.Bai11_Practice02" />
+        <item itemvalue="Application.Bai17_02" />
+        <item itemvalue="Application.Bai17_01" />
+        <item itemvalue="Application.Bai17_Continue_Break" />
+        <item itemvalue="Application.Bai16_For" />
+        <item itemvalue="Application.Bai15_DoWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688033574167</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Second commit">
+      <created>1688052302268</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688052302268</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
