@@ -4,26 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ff7fb3-f690-4c3f-ab24-89ec76d7c5d5" name="Changes" comment="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/Bai11_CauLenhIfElse.java">
-      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai18_ForFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai21_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai21_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai21_Practice01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai21_Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai21_Practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai22_DataTimeLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai22_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai24_Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai25_CharDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai26_2_StringJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai26_3_StringJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai26_StringJava.java" afterDir="false" />
+    <list default="true" id="c7ff7fb3-f690-4c3f-ab24-89ec76d7c5d5" name="Changes" comment="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/Bai28_ListJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai28_Practice/Bai28_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai28_Practice/Bai28_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai28_Practice/Bai28_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai28_Practice/Bai28_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai28_Practice/Bai28_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai29_HashMapJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai29_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai30_OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum/XepLoai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NhanVien/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NhanVien/NhanVienDiCa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NhanVien/NhanVienHanhChinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NhanVien/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLyDiem/KhoaAnh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLyDiem/KhoaToan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLyDiem/KhoaVan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLyDiem/NamHoc2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuanLyDiem/testDiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SxClass/SanPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SxClass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/KeThuaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/KeThuaInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/KeThuaInterface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/viDuInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/viDuInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestInterface/viDuInterface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TinhDaHinh/NhanSu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TinhDaHinh/PhoPhong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TinhDaHinh/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TinhDaHinh/TruongPhong.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai27_ArrayJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai27_ArrayJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +52,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -59,57 +80,100 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/maidu/OneDrive/Desktop/Learn Java/src/NhanVien2",
+    "settings.editor.selected.configurable": "copyright"
   }
-}</component>
-  <component name="RunManager" selected="Application.Bai26_3_StringJava">
-    <configuration name="Bai24_Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai24_Random" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="QuanLyDiem" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maidu\OneDrive\Desktop\Learn Java\src\NhanVien2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TinhDaHinh" />
+      <recent name="QuanLyDiem" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Enum.Test">
+    <configuration name="Enum.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enum.Test" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai25_CharDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai25_CharDataType" />
+    <configuration name="SxClass.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SxClass.Test" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SxClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai26_2_StringJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai26_2_StringJava" />
+    <configuration name="TestInterface.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestInterface.Test" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai26_3_StringJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai26_3_StringJava" />
+    <configuration name="TinhDaHinh.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TinhDaHinh.Test" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TinhDaHinh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai26_StringJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai26_StringJava" />
+    <configuration name="testDiem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuanLyDiem.testDiem" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QuanLyDiem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bai26_3_StringJava" />
-        <item itemvalue="Application.Bai26_2_StringJava" />
-        <item itemvalue="Application.Bai26_StringJava" />
-        <item itemvalue="Application.Bai25_CharDataType" />
-        <item itemvalue="Application.Bai24_Random" />
+        <item itemvalue="Application.Enum.Test" />
+        <item itemvalue="Application.SxClass.Test" />
+        <item itemvalue="Application.TinhDaHinh.Test" />
+        <item itemvalue="Application.TestInterface.Test" />
+        <item itemvalue="Application.testDiem" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +242,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688143351854</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1689086186216</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689086186216</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1689647943178</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689647943178</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +273,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/Bai11_CauLenhIfElse.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/Bai11_CauLenhIfElse.java" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
