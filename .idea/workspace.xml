@@ -4,26 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ff7fb3-f690-4c3f-ab24-89ec76d7c5d5" name="Changes" comment="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/Bai11_CauLenhIfElse.java">
-      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai18_ForFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai21_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai21_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai21_Practice01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai21_Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai21_Practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai22_DataTimeLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai22_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai24_Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai25_CharDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai26_2_StringJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai26_3_StringJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai26_StringJava.java" afterDir="false" />
+    <list default="true" id="c7ff7fb3-f690-4c3f-ab24-89ec76d7c5d5" name="Changes" comment="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai27_ArrayJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,37 +67,61 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bai26_3_StringJava">
-    <configuration name="Bai24_Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai24_Random" />
+  <component name="RunManager" selected="Application.Bai27_ArrayJava">
+    <configuration name="Bai26_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai26_Practice.Bai26_7" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai26_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai25_CharDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai25_CharDataType" />
+    <configuration name="Bai26_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai26_Practice.Bai26_8" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai26_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai26_2_StringJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai26_2_StringJava" />
+    <configuration name="Bai26_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai26_Practice.Bai26_9" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai26_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai26_3_StringJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai26_3_StringJava" />
+    <configuration name="Bai27_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai27_Practice.Bai27_01" />
       <module name="Learn Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai27_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai26_StringJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai26_StringJava" />
+    <configuration name="Bai27_ArrayJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai27_ArrayJava" />
       <module name="Learn Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bai26_3_StringJava" />
-        <item itemvalue="Application.Bai26_2_StringJava" />
-        <item itemvalue="Application.Bai26_StringJava" />
-        <item itemvalue="Application.Bai25_CharDataType" />
-        <item itemvalue="Application.Bai24_Random" />
+        <item itemvalue="Application.Bai27_ArrayJava" />
+        <item itemvalue="Application.Bai27_01" />
+        <item itemvalue="Application.Bai26_9" />
+        <item itemvalue="Application.Bai26_8" />
+        <item itemvalue="Application.Bai26_7" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688143351854</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1689086186216</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689086186216</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +226,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
     <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/Bai11_CauLenhIfElse.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/Bai11_CauLenhIfElse.java" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
