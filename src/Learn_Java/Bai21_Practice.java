@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai21_Practice {
     public static void main(String[] args) {
         // 1 2 3

@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai21_Function {
     public static void main(String[] args) {
         System.out.println(tong(7,8,9));

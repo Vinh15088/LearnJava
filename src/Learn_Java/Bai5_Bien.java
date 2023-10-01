@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai5_Bien {
     public static void main(String[] args) {
         // Khai bao bien

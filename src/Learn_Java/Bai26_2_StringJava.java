@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai26_2_StringJava {
     public static void main(String[] args) {
         // indexof => kiem tra vi tri xuat hien dau tien cua ky tu hoac chuoi, khong thay tra ve -1

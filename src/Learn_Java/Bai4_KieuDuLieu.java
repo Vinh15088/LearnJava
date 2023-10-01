@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai4_KieuDuLieu {
     public static void main(String[] args) {
         // kiem tra kieu nguyen

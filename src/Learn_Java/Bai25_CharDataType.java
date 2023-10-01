@@ -1,3 +1,5 @@
+package Learn_Java;
+
 import java.util.Scanner;
 
 public class Bai25_CharDataType {

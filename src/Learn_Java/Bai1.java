@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai1 {
     public static void main(String[] args) {
         // psvm == public static void main

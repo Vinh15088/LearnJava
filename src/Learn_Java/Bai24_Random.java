@@ -1,3 +1,5 @@
+package Learn_Java;
+
 import java.util.Random;
 
 public class Bai24_Random {

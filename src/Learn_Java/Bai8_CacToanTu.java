@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai8_CacToanTu {
     public static void main(String[] args) {
 //        int x1 = 8;

@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai2_NhapXuat {
     public static void main(String[] args) {
         // 1 In du lieu ra theo dong

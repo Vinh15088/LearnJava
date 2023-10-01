@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai9_ToanTuLogic {
     public static void main(String[] args) {
         int i = 7;

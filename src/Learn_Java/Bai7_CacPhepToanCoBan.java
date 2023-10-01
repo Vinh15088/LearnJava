@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai7_CacPhepToanCoBan {
     public static void main(String[] args) {
 //        int a = 3;

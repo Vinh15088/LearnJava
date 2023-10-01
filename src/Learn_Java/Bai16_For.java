@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai16_For {
     public static void main(String[] args) {
         // In cac so chan tu 0-10

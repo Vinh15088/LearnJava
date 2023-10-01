@@ -1,3 +1,5 @@
+package Learn_Java;
+
 public class Bai6_EpKieuDuLieu {
     public static void main(String[] args) {
         int a = 2;
