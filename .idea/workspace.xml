@@ -5,174 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7ff7fb3-f690-4c3f-ab24-89ec76d7c5d5" name="Changes" comment="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/Bai27_ArrayJava.java&#10;#&#9;src/Bai27_Practice/Bai27_02.java">
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai11_Practice/Bai11_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai11_Practice/Bai11_Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai11_Practice/Bai11_Practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai11_Practice/Bai11_Practice04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai11_Practice/Bai11_Practice05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai11_Practice/Bai11_Practice06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai17_Practice/Bai17_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai17_Practice/Bai17_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai17_Practice/Bai17_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai17_Practice/Bai17_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai17_Practice/Bai17_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai17_Practice/Bai17_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai17_Practice/Bai17_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_3_StringJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_Practice/Bai26_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_Practice/Bai26_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_Practice/Bai26_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_Practice/Bai26_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_Practice/Bai26_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_Practice/Bai26_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_Practice/Bai26_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_Practice/Bai26_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_Practice/Bai26_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_StringJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai27_ArrayJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai27_Practice/Bai27_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai27_Practice/Bai27_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai27_Practice/Bai27_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai27_Practice/Bai27_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai27_Practice/Bai27_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai27_Practice/Bai27_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai27_Practice/Bai27_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai27_Practice/Bai27_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai28_ListJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai28_Practice/Bai28_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai28_Practice/Bai28_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai28_Practice/Bai28_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai28_Practice/Bai28_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai28_Practice/Bai28_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai29_HashMapJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai29_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Bai30_OOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Enum/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Enum/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/Enum/XepLoai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/NhanVien/NhanVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/NhanVien/NhanVienDiCa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/NhanVien/NhanVienHanhChinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/NhanVien/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/QuanLyDiem/KhoaAnh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/QuanLyDiem/KhoaToan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/QuanLyDiem/KhoaVan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/QuanLyDiem/NamHoc2023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/QuanLyDiem/testDiem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/SxClass/SanPham.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/SxClass/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TestInterface/KeThuaInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TestInterface/KeThuaInterface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TestInterface/KeThuaInterface3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TestInterface/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TestInterface/viDuInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TestInterface/viDuInterface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TestInterface/viDuInterface3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TinhDaHinh/NhanSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TinhDaHinh/PhoPhong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TinhDaHinh/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Learn_Java/TinhDaHinh/TruongPhong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SP Java/SP 2023 10 01/B1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SP Java/SP 2023 10 01/B2.Java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai10_NhapLieuTuBanPhim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai10_NhapLieuTuBanPhim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai10_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai10_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai10_Practice02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai10_Practice02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai11_CauLenhIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai11_CauLenhIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_Practice02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_Practice03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_Practice04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_Practice05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai11_Practice/Bai11_Practice06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai12_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai12_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai12_ToanTu3Ngoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai12_ToanTu3Ngoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai13_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai13_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai13_SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai13_SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai14_WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai14_WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai15_DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai15_DoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai16_For.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai16_For.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai17_Continue_Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai17_Continue_Break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai17_Practice/Bai17_07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai18_ForFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai18_ForFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai21_Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai21_Function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai21_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai21_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai21_Practice01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai21_Practice01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai21_Practice02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai21_Practice02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai21_Practice03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai21_Practice03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai22_DataTimeLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai22_DataTimeLibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai22_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai22_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai24_Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai24_Random.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai25_CharDataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai25_CharDataType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_2_StringJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai26_2_StringJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_3_StringJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_Practice/Bai26_9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai26_StringJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai27_ArrayJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai27_Practice/Bai27_08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai28_ListJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai28_Practice/Bai28_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai28_Practice/Bai28_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai28_Practice/Bai28_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai28_Practice/Bai28_04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai28_Practice/Bai28_05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai29_HashMapJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai29_Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai2_NhapXuat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai2_NhapXuat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai30_OOP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai4_KieuDuLieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai4_KieuDuLieu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai5_Bien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai5_Bien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai6_EpKieuDuLieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai6_EpKieuDuLieu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai7_CacPhepToanCoBan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai7_CacPhepToanCoBan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai8_CacToanTu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai8_CacToanTu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bai9_ToanTuLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Learn_Java/Bai9_ToanTuLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum/SinhVien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum/XepLoai.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NhanVien/NhanVien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NhanVien/NhanVienDiCa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NhanVien/NhanVienHanhChinh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NhanVien/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuanLyDiem/KhoaAnh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuanLyDiem/KhoaToan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuanLyDiem/KhoaVan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuanLyDiem/NamHoc2023.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuanLyDiem/testDiem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SinhVien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SxClass/SanPham.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SxClass/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestInterface/KeThuaInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestInterface/KeThuaInterface2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestInterface/KeThuaInterface3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestInterface/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestInterface/viDuInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestInterface/viDuInterface2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestInterface/viDuInterface3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TinhDaHinh/NhanSu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TinhDaHinh/PhoPhong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TinhDaHinh/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TinhDaHinh/TruongPhong.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/maidu/OneDrive/Desktop/Learn Java/src/NhanVien2",
+    "last_opened_file_path": "C:/Users/maidu/OneDrive/Desktop/Learn Java",
     "settings.editor.selected.configurable": "copyright"
   },
   "keyToStringList": {
@@ -237,7 +72,7 @@
       <recent name="QuanLyDiem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Enum.Test">
+  <component name="RunManager">
     <configuration name="Enum.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Enum.Test" />
       <module name="Learn Java" />
