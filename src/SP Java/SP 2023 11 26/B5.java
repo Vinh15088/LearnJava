@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TongSoNguyenDuongTrace {
+public class B5 {
     public static int tinhTongSoNguyenDuong(double[] arr) {
         int tong = 0;
         for (double num : arr) {

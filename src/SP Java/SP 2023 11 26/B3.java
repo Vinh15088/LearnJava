@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LargestNumber {
+public class B3 {
     public static int findLargest(int a, int b, int c) {
         int largest = a;
         if (b > largest) largest = b;
@@ -25,3 +25,4 @@ public class LargestNumber {
         int largestNumber = findLargest(a, b, c);
         System.out.println("So lon nhat la: " + largestNumber);
     }
+}
